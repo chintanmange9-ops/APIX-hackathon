@@ -1,0 +1,9 @@
+flask
+cryptography
+qrcode
+Pillow
+requests
+python-dotenv
+streamlit
+pyzbar
+pandas
